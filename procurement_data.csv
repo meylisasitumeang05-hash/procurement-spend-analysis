@@ -1,0 +1,501 @@
+Supplier;Category;Department;Date;Purchase Amount
+PT Indo Material;Chemical;Office;28/09/2025;23827850
+PT Central Supply;Office Supplies;Office;13/04/2025;2734489
+PT Global Chemical;Packaging;Maintenance;29/03/2025;24481428
+PT Mega Packaging;Packaging;Office;15/09/2025;14453367
+PT Mega Packaging;Plastic;Engineering;04/10/2025;1762752
+PT Mega Packaging;Plastic;Office;24/08/2025;9805648
+PT Global Chemical;Packaging;Warehouse;07/07/2025;13148637
+PT Sinar Baja;Packaging;Engineering;24/02/2025;2928388
+PT Global Chemical;Office Supplies;Production;16/06/2025;23918129
+PT Mega Packaging;Steel;Engineering;14/01/2025;16433681
+PT Nusantara Plastik;Steel;Warehouse;22/02/2025;19102881
+PT Mega Packaging;Chemical;Engineering;21/09/2025;13979854
+PT Global Chemical;Steel;Engineering;19/02/2025;23527075
+PT Nusantara Plastik;Plastic;Engineering;06/11/2025;771836
+PT Indo Material;Plastic;Warehouse;13/02/2025;9085377
+PT Nusantara Plastik;Chemical;Engineering;09/07/2025;22051399
+PT Logistik Prima;Office Supplies;Warehouse;22/02/2025;3994679
+PT Nusantara Plastik;Steel;Engineering;07/07/2025;16106139
+PT Logistik Prima;Steel;Office;15/01/2025;5673036
+PT Alpha Steel;Steel;Production;10/12/2025;18781600
+PT Mega Packaging;Packaging;Maintenance;22/03/2025;2237095
+PT Global Chemical;Packaging;Production;18/09/2025;19509001
+PT Indo Material;Plastic;Production;28/01/2025;16513446
+PT Alpha Steel;Chemical;Warehouse;02/02/2025;5045583
+PT Indo Material;Office Supplies;Maintenance;21/06/2025;20879495
+PT Sinar Baja;Packaging;Maintenance;15/08/2025;10836868
+PT Indo Material;Packaging;Production;05/01/2025;7414550
+PT Indo Material;Packaging;Production;26/07/2025;24835374
+PT Nusantara Plastik;Plastic;Engineering;28/06/2025;1269598
+PT Central Supply;Steel;Engineering;06/04/2025;1374371
+PT Sinar Baja;Office Supplies;Office;23/05/2025;24341962
+PT Logistik Prima;Chemical;Office;09/06/2025;22470758
+PT Global Chemical;Packaging;Engineering;07/03/2025;15244108
+PT Sinar Baja;Steel;Office;14/05/2025;15143995
+PT Mega Packaging;Chemical;Engineering;06/12/2025;8806461
+PT Sinar Baja;Packaging;Warehouse;14/12/2025;20838136
+PT Indo Material;Steel;Production;10/10/2025;22974685
+PT Alpha Steel;Chemical;Office;21/08/2025;902690
+PT Indo Material;Packaging;Production;14/11/2025;14921668
+PT Alpha Steel;Packaging;Warehouse;21/06/2025;8823735
+PT Indo Material;Packaging;Production;29/06/2025;18773392
+PT Sinar Baja;Steel;Warehouse;21/02/2025;20637227
+PT Sinar Baja;Plastic;Maintenance;23/04/2025;15921040
+PT Central Supply;Steel;Maintenance;23/04/2025;725281
+PT Nusantara Plastik;Chemical;Office;12/08/2025;9158144
+PT Alpha Steel;Packaging;Warehouse;22/02/2025;22308811
+PT Nusantara Plastik;Chemical;Maintenance;03/07/2025;14512538
+PT Alpha Steel;Office Supplies;Engineering;08/04/2025;3580389
+PT Sinar Baja;Packaging;Production;20/07/2025;2508187
+PT Global Chemical;Office Supplies;Maintenance;28/05/2025;24751131
+PT Global Chemical;Chemical;Maintenance;12/12/2025;18884834
+PT Indo Material;Packaging;Engineering;18/12/2025;10921958
+PT Mega Packaging;Steel;Production;08/05/2025;9632582
+PT Nusantara Plastik;Steel;Maintenance;31/05/2025;10745534
+PT Sinar Baja;Plastic;Maintenance;20/09/2025;16537627
+PT Central Supply;Plastic;Production;01/03/2025;13456528
+PT Nusantara Plastik;Steel;Engineering;06/02/2025;1741082
+PT Indo Material;Steel;Production;09/04/2025;22169522
+PT Central Supply;Packaging;Engineering;01/06/2025;21792704
+PT Central Supply;Chemical;Maintenance;23/04/2025;23601383
+PT Mega Packaging;Chemical;Maintenance;22/04/2025;11810552
+PT Global Chemical;Steel;Office;04/12/2025;5820385
+PT Sinar Baja;Packaging;Office;18/06/2025;17895683
+PT Alpha Steel;Chemical;Production;04/10/2025;18985139
+PT Central Supply;Packaging;Production;08/05/2025;15436751
+PT Mega Packaging;Packaging;Maintenance;22/01/2025;8240141
+PT Sinar Baja;Office Supplies;Maintenance;21/09/2025;20715834
+PT Nusantara Plastik;Office Supplies;Production;11/10/2025;21380238
+PT Central Supply;Steel;Office;13/11/2025;7765795
+PT Global Chemical;Steel;Production;21/06/2025;13207035
+PT Sinar Baja;Office Supplies;Office;06/01/2025;13261186
+PT Mega Packaging;Steel;Office;07/10/2025;11775612
+PT Alpha Steel;Office Supplies;Maintenance;07/07/2025;6714624
+PT Mega Packaging;Office Supplies;Office;10/06/2025;19492383
+PT Global Chemical;Plastic;Production;11/08/2025;2489173
+PT Nusantara Plastik;Packaging;Warehouse;15/10/2025;24890485
+PT Indo Material;Plastic;Maintenance;30/09/2025;21630343
+PT Alpha Steel;Steel;Maintenance;03/09/2025;998863
+PT Indo Material;Office Supplies;Warehouse;04/09/2025;23804034
+PT Nusantara Plastik;Steel;Office;12/11/2025;15660825
+PT Indo Material;Steel;Engineering;22/06/2025;7055968
+PT Central Supply;Chemical;Maintenance;23/05/2025;3003771
+PT Nusantara Plastik;Plastic;Maintenance;02/06/2025;15885150
+PT Sinar Baja;Office Supplies;Warehouse;27/02/2025;1579600
+PT Mega Packaging;Plastic;Maintenance;11/04/2025;19262804
+PT Mega Packaging;Chemical;Engineering;05/01/2025;18281862
+PT Mega Packaging;Office Supplies;Engineering;16/12/2025;7254350
+PT Global Chemical;Chemical;Office;04/05/2025;16209289
+PT Sinar Baja;Packaging;Production;30/04/2025;22864990
+PT Global Chemical;Chemical;Warehouse;12/12/2025;8717316
+PT Nusantara Plastik;Office Supplies;Production;09/05/2025;6595929
+PT Nusantara Plastik;Steel;Warehouse;06/04/2025;10600349
+PT Sinar Baja;Steel;Office;29/09/2025;5101020
+PT Indo Material;Office Supplies;Office;04/09/2025;4112610
+PT Mega Packaging;Plastic;Maintenance;27/03/2025;2248014
+PT Alpha Steel;Chemical;Office;23/07/2025;7097519
+PT Nusantara Plastik;Plastic;Office;08/02/2025;11470723
+PT Alpha Steel;Office Supplies;Warehouse;10/01/2025;16963605
+PT Logistik Prima;Chemical;Warehouse;29/06/2025;4193305
+PT Global Chemical;Plastic;Production;21/11/2025;18866444
+PT Mega Packaging;Plastic;Production;09/06/2025;12226298
+PT Mega Packaging;Chemical;Warehouse;12/06/2025;11938459
+PT Alpha Steel;Steel;Office;28/06/2025;1904330
+PT Logistik Prima;Chemical;Maintenance;06/03/2025;1586880
+PT Central Supply;Plastic;Maintenance;13/02/2025;2748988
+PT Logistik Prima;Chemical;Warehouse;10/09/2025;3476242
+PT Nusantara Plastik;Packaging;Production;31/03/2025;11598716
+PT Nusantara Plastik;Plastic;Warehouse;25/04/2025;3097480
+PT Indo Material;Chemical;Warehouse;24/04/2025;17434380
+PT Global Chemical;Office Supplies;Engineering;05/08/2025;3869720
+PT Mega Packaging;Plastic;Office;11/07/2025;24603650
+PT Alpha Steel;Packaging;Engineering;06/04/2025;21399479
+PT Indo Material;Office Supplies;Engineering;02/07/2025;4241196
+PT Indo Material;Steel;Maintenance;27/12/2025;12220477
+PT Alpha Steel;Steel;Engineering;05/08/2025;3764908
+PT Global Chemical;Packaging;Production;10/04/2025;13492907
+PT Logistik Prima;Steel;Maintenance;17/03/2025;14856744
+PT Indo Material;Chemical;Engineering;05/12/2025;4099865
+PT Indo Material;Office Supplies;Office;09/04/2025;4272811
+PT Alpha Steel;Chemical;Maintenance;22/02/2025;11308470
+PT Central Supply;Steel;Office;30/06/2025;10089801
+PT Nusantara Plastik;Plastic;Office;12/06/2025;21509622
+PT Logistik Prima;Packaging;Maintenance;26/05/2025;10664811
+PT Alpha Steel;Plastic;Warehouse;10/09/2025;11423237
+PT Indo Material;Office Supplies;Warehouse;10/10/2025;13888409
+PT Nusantara Plastik;Office Supplies;Office;14/06/2025;10226290
+PT Central Supply;Office Supplies;Production;08/12/2025;1786643
+PT Alpha Steel;Steel;Office;12/05/2025;5909861
+PT Mega Packaging;Packaging;Office;30/12/2025;16463317
+PT Indo Material;Packaging;Warehouse;12/12/2025;9637682
+PT Indo Material;Packaging;Office;21/05/2025;5484445
+PT Nusantara Plastik;Chemical;Engineering;13/11/2025;11142302
+PT Alpha Steel;Steel;Maintenance;14/12/2025;5804509
+PT Alpha Steel;Chemical;Production;08/11/2025;21685440
+PT Sinar Baja;Office Supplies;Warehouse;13/02/2025;6247372
+PT Central Supply;Office Supplies;Office;30/10/2025;2725300
+PT Central Supply;Office Supplies;Maintenance;09/09/2025;15463940
+PT Mega Packaging;Packaging;Maintenance;20/01/2025;22499032
+PT Nusantara Plastik;Steel;Production;14/01/2025;23827886
+PT Indo Material;Steel;Office;23/02/2025;6467106
+PT Central Supply;Steel;Maintenance;12/01/2025;24454761
+PT Central Supply;Chemical;Engineering;08/01/2025;24626585
+PT Mega Packaging;Chemical;Warehouse;16/05/2025;8186841
+PT Mega Packaging;Plastic;Engineering;08/08/2025;4666500
+PT Alpha Steel;Chemical;Maintenance;25/05/2025;21288128
+PT Logistik Prima;Chemical;Office;08/08/2025;23403535
+PT Logistik Prima;Office Supplies;Maintenance;10/09/2025;13521573
+PT Nusantara Plastik;Packaging;Office;30/10/2025;22464696
+PT Nusantara Plastik;Plastic;Warehouse;08/09/2025;3814692
+PT Indo Material;Steel;Production;26/05/2025;12960255
+PT Indo Material;Steel;Maintenance;07/12/2025;10655224
+PT Sinar Baja;Packaging;Maintenance;26/06/2025;10770156
+PT Alpha Steel;Plastic;Production;09/04/2025;4965150
+PT Alpha Steel;Office Supplies;Engineering;16/07/2025;19609733
+PT Global Chemical;Office Supplies;Office;22/02/2025;12743026
+PT Alpha Steel;Office Supplies;Production;01/01/2025;4477266
+PT Logistik Prima;Office Supplies;Engineering;15/10/2025;592193
+PT Mega Packaging;Plastic;Warehouse;11/06/2025;14443554
+PT Global Chemical;Plastic;Engineering;23/02/2025;11111677
+PT Sinar Baja;Packaging;Production;22/04/2025;15461406
+PT Indo Material;Office Supplies;Office;07/03/2025;2034026
+PT Global Chemical;Chemical;Warehouse;21/10/2025;17594753
+PT Nusantara Plastik;Packaging;Maintenance;04/11/2025;2953752
+PT Sinar Baja;Steel;Engineering;30/01/2025;21541910
+PT Nusantara Plastik;Packaging;Production;13/05/2025;20740567
+PT Alpha Steel;Plastic;Production;06/12/2025;15403841
+PT Sinar Baja;Office Supplies;Warehouse;24/07/2025;3026954
+PT Global Chemical;Packaging;Maintenance;21/04/2025;17163288
+PT Indo Material;Packaging;Engineering;26/12/2025;5606563
+PT Central Supply;Steel;Maintenance;18/12/2025;22883810
+PT Global Chemical;Office Supplies;Warehouse;02/03/2025;21068697
+PT Global Chemical;Packaging;Office;05/01/2025;6223601
+PT Mega Packaging;Plastic;Office;22/01/2025;12375732
+PT Sinar Baja;Steel;Office;21/08/2025;19522347
+PT Nusantara Plastik;Plastic;Production;19/03/2025;8980473
+PT Logistik Prima;Packaging;Production;09/10/2025;11389464
+PT Indo Material;Steel;Maintenance;15/11/2025;10318159
+PT Logistik Prima;Steel;Warehouse;19/10/2025;7001632
+PT Central Supply;Steel;Maintenance;10/09/2025;8583123
+PT Indo Material;Plastic;Engineering;19/03/2025;7359991
+PT Nusantara Plastik;Office Supplies;Warehouse;14/01/2025;10966615
+PT Global Chemical;Packaging;Maintenance;27/08/2025;24592652
+PT Nusantara Plastik;Plastic;Maintenance;15/01/2025;14702047
+PT Alpha Steel;Office Supplies;Engineering;21/07/2025;6792518
+PT Alpha Steel;Steel;Warehouse;06/05/2025;11557963
+PT Alpha Steel;Steel;Office;31/07/2025;22919480
+PT Mega Packaging;Plastic;Maintenance;21/08/2025;13469105
+PT Indo Material;Chemical;Warehouse;21/04/2025;14467111
+PT Central Supply;Steel;Engineering;24/03/2025;16703305
+PT Alpha Steel;Office Supplies;Engineering;09/10/2025;2500609
+PT Global Chemical;Packaging;Office;17/08/2025;17698456
+PT Alpha Steel;Office Supplies;Office;17/07/2025;16693014
+PT Central Supply;Chemical;Maintenance;14/11/2025;5556861
+PT Indo Material;Steel;Maintenance;31/08/2025;11742014
+PT Central Supply;Office Supplies;Engineering;11/08/2025;24920819
+PT Mega Packaging;Packaging;Engineering;01/12/2025;20136869
+PT Sinar Baja;Steel;Maintenance;03/03/2025;9413742
+PT Global Chemical;Plastic;Maintenance;22/06/2025;17112651
+PT Logistik Prima;Plastic;Engineering;02/10/2025;18514931
+PT Alpha Steel;Chemical;Production;20/05/2025;23958350
+PT Alpha Steel;Plastic;Office;19/05/2025;10493726
+PT Mega Packaging;Office Supplies;Maintenance;16/09/2025;21753792
+PT Sinar Baja;Plastic;Warehouse;18/09/2025;4257974
+PT Nusantara Plastik;Chemical;Warehouse;13/01/2025;21476807
+PT Nusantara Plastik;Chemical;Production;15/11/2025;8296324
+PT Alpha Steel;Steel;Production;07/02/2025;24512790
+PT Global Chemical;Steel;Office;14/11/2025;16765147
+PT Mega Packaging;Plastic;Office;17/05/2025;8560833
+PT Mega Packaging;Packaging;Maintenance;01/01/2025;12725855
+PT Sinar Baja;Chemical;Office;24/11/2025;2655748
+PT Sinar Baja;Chemical;Maintenance;01/08/2025;9410852
+PT Global Chemical;Packaging;Warehouse;03/03/2025;16376696
+PT Logistik Prima;Plastic;Production;23/10/2025;7521862
+PT Central Supply;Packaging;Office;19/12/2025;23786806
+PT Indo Material;Steel;Production;25/05/2025;5383680
+PT Indo Material;Plastic;Office;14/04/2025;11078023
+PT Global Chemical;Packaging;Maintenance;28/06/2025;11960083
+PT Indo Material;Office Supplies;Production;19/08/2025;12690618
+PT Mega Packaging;Office Supplies;Production;07/04/2025;17059100
+PT Logistik Prima;Packaging;Production;11/09/2025;6597091
+PT Sinar Baja;Plastic;Warehouse;05/01/2025;8083354
+PT Nusantara Plastik;Steel;Office;08/06/2025;16913486
+PT Mega Packaging;Office Supplies;Engineering;03/07/2025;10328366
+PT Logistik Prima;Office Supplies;Office;16/02/2025;12118627
+PT Mega Packaging;Office Supplies;Warehouse;05/04/2025;20654994
+PT Global Chemical;Chemical;Engineering;09/10/2025;8226890
+PT Global Chemical;Office Supplies;Engineering;11/01/2025;9951337
+PT Central Supply;Plastic;Maintenance;06/08/2025;1755564
+PT Central Supply;Plastic;Production;21/04/2025;21701723
+PT Global Chemical;Chemical;Engineering;22/12/2025;20634895
+PT Mega Packaging;Office Supplies;Office;24/11/2025;13083038
+PT Nusantara Plastik;Steel;Engineering;14/10/2025;22630041
+PT Alpha Steel;Packaging;Office;23/10/2025;19836488
+PT Sinar Baja;Packaging;Production;29/10/2025;7075716
+PT Logistik Prima;Plastic;Engineering;01/07/2025;7171318
+PT Alpha Steel;Steel;Maintenance;29/05/2025;18992846
+PT Alpha Steel;Office Supplies;Production;21/07/2025;20394388
+PT Nusantara Plastik;Steel;Maintenance;04/03/2025;2398739
+PT Alpha Steel;Plastic;Maintenance;21/10/2025;11649697
+PT Indo Material;Plastic;Maintenance;13/12/2025;5356447
+PT Global Chemical;Packaging;Engineering;08/09/2025;1496530
+PT Sinar Baja;Steel;Engineering;17/07/2025;11792148
+PT Central Supply;Steel;Production;12/10/2025;11080030
+PT Global Chemical;Plastic;Engineering;18/02/2025;1070451
+PT Alpha Steel;Steel;Engineering;28/04/2025;5898869
+PT Mega Packaging;Office Supplies;Production;23/11/2025;7522336
+PT Central Supply;Office Supplies;Maintenance;30/07/2025;24710749
+PT Central Supply;Office Supplies;Production;13/10/2025;3194287
+PT Central Supply;Packaging;Warehouse;14/09/2025;9476973
+PT Global Chemical;Plastic;Warehouse;23/04/2025;10488209
+PT Sinar Baja;Packaging;Engineering;21/09/2025;10853564
+PT Indo Material;Packaging;Warehouse;11/06/2025;11169435
+PT Alpha Steel;Chemical;Warehouse;15/12/2025;7949607
+PT Alpha Steel;Steel;Maintenance;12/09/2025;18047260
+PT Central Supply;Steel;Office;08/03/2025;20462930
+PT Alpha Steel;Chemical;Warehouse;18/10/2025;4729215
+PT Central Supply;Packaging;Engineering;14/06/2025;2462165
+PT Logistik Prima;Plastic;Warehouse;20/09/2025;7069632
+PT Indo Material;Office Supplies;Maintenance;22/04/2025;8007324
+PT Global Chemical;Chemical;Office;07/07/2025;4026737
+PT Nusantara Plastik;Steel;Office;11/01/2025;7418889
+PT Indo Material;Plastic;Maintenance;29/04/2025;10973867
+PT Mega Packaging;Office Supplies;Office;13/09/2025;22714365
+PT Alpha Steel;Plastic;Office;21/12/2025;13989651
+PT Nusantara Plastik;Chemical;Production;21/07/2025;14572989
+PT Central Supply;Packaging;Production;25/04/2025;20450800
+PT Sinar Baja;Steel;Warehouse;25/08/2025;18163256
+PT Indo Material;Steel;Maintenance;04/01/2025;10175193
+PT Logistik Prima;Office Supplies;Warehouse;03/08/2025;15516740
+PT Global Chemical;Plastic;Office;11/02/2025;3153093
+PT Nusantara Plastik;Steel;Office;02/06/2025;23166213
+PT Nusantara Plastik;Chemical;Office;28/12/2025;17993972
+PT Global Chemical;Steel;Maintenance;17/06/2025;3638145
+PT Mega Packaging;Office Supplies;Production;05/11/2025;15516390
+PT Nusantara Plastik;Office Supplies;Production;09/07/2025;14642073
+PT Sinar Baja;Plastic;Engineering;06/11/2025;16213642
+PT Alpha Steel;Packaging;Office;19/10/2025;23525010
+PT Nusantara Plastik;Office Supplies;Office;24/09/2025;18153247
+PT Mega Packaging;Steel;Maintenance;22/10/2025;4922375
+PT Global Chemical;Plastic;Office;08/11/2025;17692224
+PT Nusantara Plastik;Chemical;Engineering;15/08/2025;24518163
+PT Global Chemical;Steel;Maintenance;31/12/2025;23208377
+PT Nusantara Plastik;Office Supplies;Production;20/07/2025;7484720
+PT Alpha Steel;Steel;Office;14/04/2025;22575433
+PT Alpha Steel;Packaging;Maintenance;17/08/2025;10547595
+PT Mega Packaging;Packaging;Warehouse;12/01/2025;7367218
+PT Logistik Prima;Chemical;Maintenance;01/11/2025;17706204
+PT Alpha Steel;Plastic;Production;07/11/2025;24876816
+PT Indo Material;Chemical;Maintenance;21/09/2025;8547252
+PT Alpha Steel;Office Supplies;Production;30/03/2025;11063214
+PT Global Chemical;Plastic;Production;31/12/2025;2064718
+PT Central Supply;Plastic;Production;09/10/2025;23887092
+PT Sinar Baja;Plastic;Office;07/01/2025;2535848
+PT Global Chemical;Plastic;Maintenance;03/08/2025;23968625
+PT Indo Material;Chemical;Maintenance;13/04/2025;7929645
+PT Indo Material;Packaging;Engineering;07/07/2025;19824716
+PT Nusantara Plastik;Packaging;Office;20/06/2025;17411271
+PT Nusantara Plastik;Chemical;Production;04/01/2025;7632508
+PT Sinar Baja;Steel;Office;29/07/2025;20012480
+PT Central Supply;Office Supplies;Warehouse;18/04/2025;15290081
+PT Indo Material;Packaging;Warehouse;03/02/2025;24742589
+PT Global Chemical;Office Supplies;Office;01/10/2025;7233215
+PT Central Supply;Packaging;Maintenance;08/02/2025;7685197
+PT Mega Packaging;Office Supplies;Production;14/11/2025;14729748
+PT Mega Packaging;Steel;Engineering;27/08/2025;11874857
+PT Sinar Baja;Steel;Engineering;06/03/2025;19407101
+PT Alpha Steel;Packaging;Office;22/05/2025;1049239
+PT Sinar Baja;Plastic;Engineering;26/05/2025;14119492
+PT Alpha Steel;Steel;Office;14/03/2025;897710
+PT Alpha Steel;Steel;Engineering;20/05/2025;14633434
+PT Nusantara Plastik;Office Supplies;Office;17/07/2025;18187991
+PT Indo Material;Packaging;Office;14/08/2025;13262264
+PT Indo Material;Chemical;Engineering;28/02/2025;13997927
+PT Mega Packaging;Office Supplies;Office;31/08/2025;21442316
+PT Sinar Baja;Plastic;Maintenance;14/08/2025;5989464
+PT Nusantara Plastik;Steel;Production;16/09/2025;17227556
+PT Logistik Prima;Steel;Production;09/04/2025;15635763
+PT Nusantara Plastik;Steel;Office;27/06/2025;3541341
+PT Alpha Steel;Packaging;Maintenance;26/09/2025;22265239
+PT Logistik Prima;Steel;Production;09/03/2025;8923309
+PT Logistik Prima;Plastic;Maintenance;15/04/2025;2839767
+PT Global Chemical;Packaging;Engineering;29/01/2025;23324130
+PT Alpha Steel;Plastic;Engineering;19/06/2025;21238568
+PT Indo Material;Steel;Office;14/08/2025;9962743
+PT Mega Packaging;Packaging;Office;25/06/2025;16340857
+PT Nusantara Plastik;Office Supplies;Engineering;25/06/2025;15838444
+PT Mega Packaging;Office Supplies;Office;22/03/2025;13208903
+PT Logistik Prima;Office Supplies;Maintenance;05/07/2025;4822626
+PT Central Supply;Plastic;Maintenance;25/08/2025;16090661
+PT Central Supply;Packaging;Engineering;19/12/2025;5184346
+PT Global Chemical;Steel;Office;29/12/2025;19032908
+PT Alpha Steel;Office Supplies;Warehouse;22/12/2025;6615518
+PT Global Chemical;Chemical;Office;23/08/2025;2122572
+PT Nusantara Plastik;Steel;Maintenance;31/01/2025;24140598
+PT Nusantara Plastik;Plastic;Maintenance;07/06/2025;11028294
+PT Indo Material;Plastic;Engineering;15/09/2025;17719277
+PT Logistik Prima;Office Supplies;Engineering;22/10/2025;24692961
+PT Central Supply;Office Supplies;Maintenance;23/04/2025;22648328
+PT Alpha Steel;Plastic;Engineering;10/12/2025;15312143
+PT Sinar Baja;Packaging;Warehouse;21/08/2025;9324031
+PT Nusantara Plastik;Chemical;Engineering;01/12/2025;10552829
+PT Logistik Prima;Office Supplies;Engineering;18/12/2025;22958851
+PT Nusantara Plastik;Chemical;Maintenance;11/07/2025;22177072
+PT Mega Packaging;Steel;Warehouse;12/07/2025;14385461
+PT Nusantara Plastik;Packaging;Warehouse;02/11/2025;20853727
+PT Indo Material;Office Supplies;Engineering;13/06/2025;22345218
+PT Mega Packaging;Office Supplies;Engineering;07/01/2025;13926716
+PT Global Chemical;Steel;Maintenance;27/02/2025;4921590
+PT Nusantara Plastik;Plastic;Warehouse;12/10/2025;18995440
+PT Global Chemical;Office Supplies;Production;08/02/2025;15904302
+PT Indo Material;Office Supplies;Office;16/03/2025;9174163
+PT Central Supply;Plastic;Engineering;22/01/2025;4222946
+PT Alpha Steel;Chemical;Engineering;21/01/2025;14563918
+PT Central Supply;Office Supplies;Maintenance;25/03/2025;10299314
+PT Alpha Steel;Office Supplies;Maintenance;14/09/2025;2347865
+PT Mega Packaging;Plastic;Office;12/06/2025;4517136
+PT Alpha Steel;Chemical;Warehouse;28/09/2025;12450571
+PT Central Supply;Packaging;Engineering;25/05/2025;22949756
+PT Logistik Prima;Packaging;Warehouse;18/07/2025;5741218
+PT Logistik Prima;Chemical;Office;24/01/2025;5481262
+PT Alpha Steel;Steel;Engineering;06/12/2025;3155971
+PT Alpha Steel;Steel;Engineering;15/11/2025;13736949
+PT Sinar Baja;Office Supplies;Office;10/12/2025;15786855
+PT Global Chemical;Office Supplies;Production;13/03/2025;16224308
+PT Nusantara Plastik;Plastic;Maintenance;28/10/2025;3710016
+PT Mega Packaging;Steel;Maintenance;02/08/2025;14964087
+PT Alpha Steel;Steel;Engineering;15/02/2025;8533951
+PT Indo Material;Chemical;Engineering;10/06/2025;21808105
+PT Central Supply;Plastic;Engineering;19/12/2025;9462049
+PT Alpha Steel;Steel;Production;18/03/2025;2447763
+PT Nusantara Plastik;Plastic;Warehouse;23/06/2025;24955289
+PT Nusantara Plastik;Plastic;Warehouse;01/11/2025;16038122
+PT Logistik Prima;Packaging;Maintenance;09/01/2025;22388358
+PT Indo Material;Steel;Warehouse;23/07/2025;16741927
+PT Central Supply;Plastic;Engineering;14/11/2025;9831795
+PT Sinar Baja;Packaging;Maintenance;25/03/2025;3581091
+PT Sinar Baja;Plastic;Warehouse;03/01/2025;7765406
+PT Alpha Steel;Chemical;Warehouse;14/01/2025;15553770
+PT Nusantara Plastik;Chemical;Engineering;25/01/2025;20239948
+PT Global Chemical;Plastic;Maintenance;24/02/2025;6652941
+PT Mega Packaging;Office Supplies;Office;29/04/2025;17541716
+PT Indo Material;Packaging;Engineering;23/03/2025;22989029
+PT Nusantara Plastik;Packaging;Office;18/12/2025;15172183
+PT Alpha Steel;Packaging;Maintenance;21/07/2025;21218322
+PT Global Chemical;Office Supplies;Office;26/07/2025;19891366
+PT Mega Packaging;Steel;Office;08/06/2025;8423641
+PT Logistik Prima;Chemical;Office;04/01/2025;4688891
+PT Mega Packaging;Chemical;Engineering;01/06/2025;18702161
+PT Alpha Steel;Packaging;Production;07/09/2025;21503105
+PT Central Supply;Chemical;Warehouse;01/12/2025;10225345
+PT Mega Packaging;Plastic;Maintenance;05/07/2025;4943778
+PT Logistik Prima;Plastic;Office;13/08/2025;11506745
+PT Central Supply;Chemical;Warehouse;14/01/2025;11860589
+PT Nusantara Plastik;Office Supplies;Office;10/02/2025;22162013
+PT Sinar Baja;Chemical;Office;21/04/2025;6040070
+PT Alpha Steel;Chemical;Warehouse;19/08/2025;16330160
+PT Global Chemical;Steel;Production;28/01/2025;1878369
+PT Global Chemical;Office Supplies;Office;13/06/2025;5100108
+PT Indo Material;Packaging;Warehouse;14/07/2025;19932053
+PT Sinar Baja;Plastic;Office;23/09/2025;23383147
+PT Sinar Baja;Steel;Production;13/05/2025;8861735
+PT Global Chemical;Chemical;Production;09/11/2025;13296479
+PT Sinar Baja;Chemical;Engineering;01/05/2025;17575306
+PT Logistik Prima;Office Supplies;Engineering;14/06/2025;2820688
+PT Alpha Steel;Chemical;Engineering;26/07/2025;15329445
+PT Mega Packaging;Packaging;Office;30/11/2025;10805153
+PT Alpha Steel;Office Supplies;Engineering;09/10/2025;1707068
+PT Alpha Steel;Packaging;Office;02/09/2025;11744602
+PT Logistik Prima;Steel;Production;28/06/2025;11281901
+PT Mega Packaging;Plastic;Engineering;30/06/2025;14821905
+PT Central Supply;Packaging;Maintenance;06/05/2025;12603896
+PT Nusantara Plastik;Office Supplies;Production;08/02/2025;7435774
+PT Central Supply;Packaging;Warehouse;21/10/2025;3684790
+PT Central Supply;Office Supplies;Engineering;02/12/2025;10463441
+PT Nusantara Plastik;Chemical;Warehouse;07/12/2025;1147296
+PT Indo Material;Office Supplies;Office;27/03/2025;23291342
+PT Nusantara Plastik;Steel;Warehouse;24/04/2025;8917233
+PT Alpha Steel;Plastic;Production;17/03/2025;16540922
+PT Central Supply;Steel;Engineering;16/10/2025;20848050
+PT Indo Material;Office Supplies;Office;27/12/2025;22105977
+PT Sinar Baja;Chemical;Warehouse;11/07/2025;6242533
+PT Indo Material;Steel;Production;18/06/2025;5436792
+PT Central Supply;Office Supplies;Production;02/09/2025;19897196
+PT Indo Material;Steel;Maintenance;20/11/2025;9408385
+PT Logistik Prima;Chemical;Maintenance;23/03/2025;12917420
+PT Alpha Steel;Packaging;Office;27/11/2025;3387296
+PT Central Supply;Steel;Office;23/05/2025;22871392
+PT Mega Packaging;Plastic;Office;12/11/2025;7478140
+PT Alpha Steel;Steel;Production;12/08/2025;3537099
+PT Sinar Baja;Plastic;Maintenance;21/12/2025;19320039
+PT Sinar Baja;Plastic;Warehouse;22/09/2025;21054754
+PT Logistik Prima;Plastic;Warehouse;27/04/2025;5938684
+PT Nusantara Plastik;Steel;Engineering;13/05/2025;2154753
+PT Central Supply;Office Supplies;Engineering;16/08/2025;16564554
+PT Central Supply;Plastic;Engineering;21/01/2025;2499254
+PT Global Chemical;Office Supplies;Engineering;08/10/2025;22660074
+PT Global Chemical;Chemical;Office;21/05/2025;758517
+PT Global Chemical;Plastic;Office;21/02/2025;11677498
+PT Logistik Prima;Chemical;Maintenance;16/05/2025;16343433
+PT Mega Packaging;Plastic;Warehouse;18/03/2025;12790137
+PT Alpha Steel;Packaging;Engineering;15/03/2025;12981574
+PT Logistik Prima;Steel;Warehouse;25/10/2025;16348375
+PT Mega Packaging;Chemical;Engineering;20/09/2025;14452821
+PT Alpha Steel;Chemical;Office;28/12/2025;13081422
+PT Global Chemical;Office Supplies;Office;02/08/2025;7016616
+PT Nusantara Plastik;Steel;Warehouse;01/05/2025;17352604
+PT Nusantara Plastik;Steel;Warehouse;13/12/2025;22771555
+PT Nusantara Plastik;Packaging;Engineering;01/03/2025;15478249
+PT Alpha Steel;Plastic;Maintenance;13/06/2025;5939433
+PT Alpha Steel;Plastic;Office;24/06/2025;4196176
+PT Global Chemical;Chemical;Warehouse;10/06/2025;18144180
+PT Alpha Steel;Office Supplies;Maintenance;09/06/2025;22611754
+PT Nusantara Plastik;Steel;Office;11/09/2025;5436600
+PT Nusantara Plastik;Packaging;Office;26/05/2025;22906697
+PT Sinar Baja;Office Supplies;Production;29/08/2025;1342186
+PT Indo Material;Chemical;Maintenance;09/03/2025;24503801
+PT Sinar Baja;Plastic;Office;05/02/2025;20535300
+PT Alpha Steel;Chemical;Maintenance;14/03/2025;13638567
+PT Alpha Steel;Packaging;Production;15/07/2025;21588012
+PT Alpha Steel;Chemical;Warehouse;05/01/2025;4577716
+PT Central Supply;Plastic;Maintenance;27/10/2025;17771164
+PT Nusantara Plastik;Packaging;Warehouse;03/08/2025;15431115
+PT Nusantara Plastik;Steel;Maintenance;20/12/2025;4966134
+PT Sinar Baja;Chemical;Engineering;05/02/2025;3627748
+PT Logistik Prima;Office Supplies;Production;07/11/2025;20161007
+PT Nusantara Plastik;Steel;Engineering;25/05/2025;17585839
+PT Mega Packaging;Chemical;Maintenance;24/05/2025;1647116
+PT Indo Material;Chemical;Maintenance;14/04/2025;19403669
+PT Logistik Prima;Chemical;Engineering;17/11/2025;23404980
+PT Mega Packaging;Plastic;Production;29/09/2025;3841861
+PT Mega Packaging;Plastic;Office;22/05/2025;2482243
+PT Alpha Steel;Plastic;Office;07/03/2025;7823988
+PT Nusantara Plastik;Packaging;Production;27/11/2025;21861474
+PT Mega Packaging;Plastic;Engineering;07/11/2025;24183333
+PT Global Chemical;Packaging;Engineering;11/04/2025;2294291
+PT Nusantara Plastik;Chemical;Production;11/02/2025;3378117
+PT Nusantara Plastik;Office Supplies;Maintenance;07/06/2025;13274615
+PT Nusantara Plastik;Packaging;Engineering;14/01/2025;12501352
+PT Indo Material;Office Supplies;Maintenance;07/03/2025;23493754
+PT Nusantara Plastik;Packaging;Warehouse;25/07/2025;12220657
+PT Central Supply;Plastic;Production;08/10/2025;12491292
+PT Sinar Baja;Steel;Engineering;05/04/2025;12040237
+PT Alpha Steel;Office Supplies;Engineering;25/01/2025;10139564
+PT Logistik Prima;Plastic;Office;25/01/2025;9852771
+PT Logistik Prima;Chemical;Engineering;15/10/2025;21320095
+PT Central Supply;Chemical;Office;31/01/2025;5246771
+PT Nusantara Plastik;Office Supplies;Engineering;09/06/2025;22407292
+PT Global Chemical;Plastic;Engineering;31/05/2025;15907570
+PT Indo Material;Packaging;Office;23/09/2025;4012664
+PT Nusantara Plastik;Packaging;Warehouse;10/09/2025;10422462
+PT Central Supply;Steel;Maintenance;09/04/2025;19042740
+PT Alpha Steel;Chemical;Maintenance;20/09/2025;20520303
+PT Central Supply;Chemical;Production;17/09/2025;2119715
+PT Indo Material;Steel;Office;25/12/2025;9315995
+PT Mega Packaging;Office Supplies;Engineering;04/05/2025;18821829
+PT Indo Material;Plastic;Office;26/04/2025;19707741
+PT Central Supply;Office Supplies;Maintenance;07/01/2025;9378234
+PT Mega Packaging;Office Supplies;Office;27/03/2025;12890020
+PT Sinar Baja;Plastic;Maintenance;03/09/2025;5977093
+PT Indo Material;Office Supplies;Warehouse;10/11/2025;9926807
