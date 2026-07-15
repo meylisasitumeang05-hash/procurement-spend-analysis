@@ -6,7 +6,7 @@ This project demonstrates procurement spend analysis using Python and a simulate
 
 ---
 
-## 🎯Objectives
+## Objectives
 
 - Analyze procurement spending by supplier
 - Analyze spending by purchasing category
